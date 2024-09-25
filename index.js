@@ -8,4 +8,4 @@ const Howru = () => {
 console.log("Hello How are you");
 
 
-Howru() ;
+Howudoin() ;
