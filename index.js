@@ -1,11 +1,11 @@
 const myApp = () => {
-    console.log("THis is my App");
+    console.log("I'm fine Thankyou");
 }
-const Where = () => {
+const Howru = () => {
     setTimeout(myApp , 3000) ;// It will run after 3 seconds 
 }
 
-console.log("Where r we ? ");
+console.log("Hello How are you");
 
 
-Where() ;
+Howru() ;
