@@ -6,7 +6,7 @@ const askname = () => {
     console.log("My name is Sushi")
 }
 const addressPucho = () => {
-    console.log("")
+    console.log("I live in Garhwal , Uttrakhand")
 }
 
 const Howudoin = () => {
