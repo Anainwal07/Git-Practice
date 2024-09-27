@@ -4,6 +4,7 @@ const myApp = () => {
 
 const askname = () => {
     console.log("My name is Sushi")
+    console.log("aldnkfaldfkadf") 
 }
 
 const Howudoin = () => {
