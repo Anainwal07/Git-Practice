@@ -7,6 +7,11 @@ const Howru = () => {
 
 console.log("Hello How are you");
 console.log("sonam")
+<<<<<<< HEAD
 
 console.log("ankit")
+=======
+console.log("ankit")
+//heyyyy
+>>>>>>> sonamchaudhary
 Howudoin() ;
