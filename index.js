@@ -4,7 +4,9 @@ const myApp = () => {
 
 const askname = () => {
     console.log("My name is Sushi")
-    console.log("aldnkfaldfkadf") 
+}
+const addressPucho = () => {
+    console.log("")
 }
 
 const Howudoin = () => {
@@ -13,9 +15,14 @@ const Howudoin = () => {
 const WhatIsName = () => {
     setTimeout(askname , 3000) ; //It will run after 3 seconds 
 }
+const AdressKyahaiAapka = () => {
+    setTimeout(addressPucho , 3000) ; //It will run after 3 seconds
+}
 
-console.log("What is your name");
-console.log("Hello How are you");
+console.log("What is your name ?");
+console.log("Hello How are you ?");
+console.log("Where do you live ?") ;
 
 WhatIsName() ;
 Howudoin() ;
+AdressKyahaiAapka() ;
