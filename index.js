@@ -35,9 +35,11 @@ const WhatisyourNumber = () => {
 console.log("What is your name ?");
 console.log("Hello How are you ?");
 console.log("Where do you live ?") ;
+console.log("Whats your number ?") ;
+console.log("Can we meet ?") ;
 
 WhatIsName() ;
 Howudoin() ;
 AdressKyahaiAapka() ;
-CanweMeet() ;
 WhatisyourNumber() ;
+CanweMeet() ;
