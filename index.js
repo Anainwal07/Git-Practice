@@ -3,7 +3,7 @@ const myApp = () => {
 }
 
 const askname = () => {
-    console.log("My name is Sushi")
+    console.log("My name is Divyanshi")
 }
 const addressPucho = () => {
     console.log("I live in Garhwal , Uttrakhand")
