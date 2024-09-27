@@ -8,6 +8,10 @@ const askname = () => {
 const addressPucho = () => {
     console.log("I live in Garhwal , Uttrakhand")
 }
+const meetingPucho = () => {
+    console.log("Yead Sure !") ;
+}
+
 const NumberPucho = () => {
     console.log("09290092342") ;
 }
@@ -22,6 +26,9 @@ const WhatIsName = () => {
 const AdressKyahaiAapka = () => {
     setTimeout(addressPucho , 3000) ; //It will run after 3 seconds
 }
+const CanweMeet = () => {
+    setTimeout(meetingPucho , 3000) ; //It will run after 3 seconds
+}
 const WhatisyourNumber = () => {
     setTimeout(NumberPucho , 3000) ; //It will run after 3 seconds
 }
@@ -32,4 +39,5 @@ console.log("Where do you live ?") ;
 WhatIsName() ;
 Howudoin() ;
 AdressKyahaiAapka() ;
+CanweMeet() ;
 WhatisyourNumber() ;
