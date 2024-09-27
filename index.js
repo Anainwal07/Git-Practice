@@ -10,6 +10,12 @@ const WhatIsName = () => {
 
 console.log("What is your name");
 console.log("Hello How are you");
+<<<<<<< HEAD
 
 WhatIsName() ;
+=======
+console.log("sonam")
+console.log("ankit")
+//heyyyy
+>>>>>>> 82c7514ec8ce3720e063f91f08e1e6467a89e19f
 Howudoin() ;
